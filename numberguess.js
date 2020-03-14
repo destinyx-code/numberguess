@@ -1,5 +1,5 @@
   // Asks for input
-	var userInput = console.ReadLine('Choose any number!');
+	var userInput = window.prompt('Choose a number!');
 		// The correct number variable
 		var correctNumber = 7;
 			// If statement
